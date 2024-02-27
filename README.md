@@ -27,4 +27,3 @@ Modul ini mengajarkan algoritma-algoritma lanjutan, seperti pengurutan dan penca
 
 #### Tugas Besar
 Tugas besar merupakan proyek akhir yang menggabungkan konsep-konsep yang telah dipelajari dalam praktikum, biasanya berupa pembuatan program yang lebih kompleks yang menguji pemahaman dan keterampilan pemrograman mahasiswa dalam bahasa C.
-# Praktikum-Pemrograman-C
